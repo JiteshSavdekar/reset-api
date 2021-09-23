@@ -1,37 +1,9 @@
 {
   "user": [],
   "singup": [
-    {
-      "name": "Jayeshri Dilip Savdekar",
-      "email": "jitusavdekar1996@gmail.com",
-      "password": "123456",
-      "id": 1
-    }
+
   ],
   "contact": [
-    {
-      "firstname": "",
-      "surname": "Savdekar",
-      "email": "savdekar.jitesh30@gmail.com",
-      "number": "8830012216",
-      "message": "good web react api",
-      "id": 1
-    },
-    {
-      "firstname": "",
-      "surname": "8830012216",
-      "email": "jitusavdekar1996@gmail.com",
-      "number": "8830012216",
-      "message": "4\n4\\\n4\\\n",
-      "id": 2
-    },
-    {
-      "firstname": "jayesh",
-      "surname": "as/df.sm",
-      "email": "ssdf",
-      "number": "dsfsdf",
-      "message": "asf",
-      "id": 3
-    }
+
   ]
 }
